@@ -24,4 +24,5 @@ if __name__ == '__main__':
             days=29
         else:
             days=28
+
     print(total)
